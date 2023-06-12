@@ -68,3 +68,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+npm install -g npm@9.6.7
+npm i @emailjs/browser
+npm i @fortawesome/free-brands-svg-icons
+npm i @fortawesome/free-solid-svg-icons
+npm i @fortawesome/react-fontawesome
+npm i animate.css
+npm i gsap-trial
+npm i loaders.css
+npm i react-leaflet
+npm i react-loaders
+npm i react-router-dom
+npm i sass
+npm i -S TagCloud
