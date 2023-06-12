@@ -1,0 +1,28 @@
+{
+    "portfolio":[
+        {
+            "cover": "/portfolio/img_portafolio/ejemimg.jpg",
+            "title": "EJEMPLO",
+            "description": "React, JSX , Tailwind , Redux",
+            "url": "http://google.com/"
+        },
+        {
+            "cover": "/portfolio/img_portafolio/ejemimg.jpg",
+            "title": "EJEMPLO",
+            "description": "React, JSX , Tailwind , Redux",
+            "url": "http://google.com/"
+        },
+        {
+            "cover": "/portfolio/img_portafolio/ejemimg.jpg",
+            "title": "EJEMPLO",
+            "description": "React, JSX , Tailwind , Redux",
+            "url": "http://google.com/"
+        },
+        {
+            "cover": "/portfolio/img_portafolio/ejemimg.jpg",
+            "title": "EJEMPLO",
+            "description": "React, JSX , Tailwind , Redux",
+            "url": "http://google.com/"
+        }
+    ]
+}
